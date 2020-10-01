@@ -4,4 +4,4 @@ detecting people that are wearing face mask or not, with pytorch
  https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
  
  ### Example:
- 
+ <img src="images/ex1.png" width=700>
